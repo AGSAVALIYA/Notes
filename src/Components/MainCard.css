@@ -1,0 +1,101 @@
+.main-box{
+    background-color: rgba(0, 0, 0, 0.274);
+    margin: 20px;
+    border-radius: 20px;
+    position: relative;
+    padding: 1px 10px 10px 10px;
+    box-shadow: 0 0 0 1px rgb(158, 158, 158), 
+    0 30px 30px rgb(0 0 0 / 7%), 
+    0 15px 15px rgb(0 0 0 / 6%), 
+    0 10px 8px rgb(0 0 0 / 5%), 
+    0 4px 4px rgb(0 0 0 / 4%), 
+    0 2px 2px rgb(0 0 0 / 3%);
+}
+.main-box h3{
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+
+.module-box{
+    background-color: rgba(0, 0, 0, 0.295);
+    box-shadow: 0 0 0 1px rgb(158, 158, 158), 
+    0 30px 30px rgb(0 0 0 / 7%), 
+    0 15px 15px rgb(0 0 0 / 6%), 
+    0 10px 8px rgb(0 0 0 / 5%), 
+    0 4px 4px rgb(0 0 0 / 4%), 
+    0 2px 2px rgb(0 0 0 / 3%);
+    border-radius: 20px;
+    padding: 1px 10px 10px 10px;
+    margin-top: 10px;
+}
+
+.sub-module-box{
+    background-color: black;
+    border-radius: 20px;
+    padding: 1px 10px 10px 10px;
+    box-shadow: 0 0 0 1px rgb(158, 158, 158),
+    0 30px 30px rgb(0 0 0 / 7%),
+    0 15px 15px rgb(0 0 0 / 6%),
+    0 10px 8px rgb(0 0 0 / 5%),
+    0 4px 4px rgb(0 0 0 / 4%),
+    0 2px 2px rgb(0 0 0 / 3%);
+    margin-top: 10px;
+}
+
+.subject-item{
+    background-color: rgb(0, 98, 122);
+    border-radius: 10px;
+    text-align: center;
+    padding: 2px;
+    padding: 5px;
+    margin: 2px;
+    width: auto;
+    display: inline-block;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+
+.module-box h4{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
+.module-item{
+    background-color: rgb(0, 98, 122);
+    border-radius: 10px;
+    text-align: center;
+    padding: 2px;
+    padding: 5px;
+    margin: 2px;
+    width: auto;
+    display: inline-block;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.note-item{
+    background-color: rgb(0, 98, 122);
+    border-radius: 10px;
+    text-align: center;
+    padding: 2px;
+    padding: 5px;
+    margin: 2px;
+    width: auto;
+    display: inline-block;
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.sub-module-box h5{
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+}
