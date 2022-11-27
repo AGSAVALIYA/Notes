@@ -17,6 +17,7 @@ const MainCard = () => {
 
     return (
         <div className="main-card">
+            <h1 style={{textAlign: "center"}}>KJSIEIT COMPS</h1>
             <div className="main-box">
                 <h3>Subject</h3>
                 <Subjects subjects={subjects} setSubjects={setSubjects} setSubject={setSubject} loading={loading} setLoading={setLoading} error={error} setError={setError} />
