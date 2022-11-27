@@ -10,10 +10,8 @@ import MainCard from './Components/MainCard';
 
 function App() {
   return (
-    <div className="">
-     
-
-<MainCard/>
+    <div>
+      <MainCard />
     </div>
   );
 }
